@@ -1,4 +1,5 @@
 #inifile
+# really dummy change
 
 [![Build Status](https://travis-ci.org/puppetlabs/puppetlabs-inifile.png?branch=master)](https://travis-ci.org/puppetlabs/puppetlabs-inifile)
 
